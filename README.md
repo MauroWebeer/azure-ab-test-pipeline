@@ -22,7 +22,7 @@ The project leverages several Azure services for data orchestration, processing,
 
 ## 🗺️ Architecture Diagram
 
-*(Insert your architecture diagram here)*
+![Architecture Diagram](docs/architecture-diagram.png)
 
 ## 🔁 Pipeline Explanation
 
@@ -38,7 +38,3 @@ The project leverages several Azure services for data orchestration, processing,
 ## 🎯 Goal
 
 To efficiently track A/B test execution, ensure data quality, and produce actionable business metrics that support decision-making regarding feature variations.
-
----
-
-Let me know when you're ready to move on to the next section, like deployment or usage instructions.
